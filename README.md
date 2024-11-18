@@ -4,10 +4,10 @@ Hi there! I'm **Mildred Maduforo**, a dedicated and results-oriented **Data Anal
 
 I specialize in working with large datasets and transforming them into actionable insights using a variety of tools and technologies. My expertise includes:
 
-- 🧮 **Microsoft Excel**: From advanced formulas and pivot tables to macros, I excel at cleaning, analyzing, and visualizing data in one of the most versatile tools for analysts.
-- 📊 **Microsoft Power BI**: Designing interactive, visually compelling dashboards and reports that provide meaningful insights at a glance.
-- 🛢️ **SQL**: Crafting efficient queries to extract, clean, and manipulate data from complex databases, ensuring accuracy and reliability.
-- 🐍 **Python**: Utilizing libraries like Pandas, NumPy, and Matplotlib for data manipulation, statistical analysis, and creating predictive models.
+**Microsoft Excel**: From advanced formulas and pivot tables to macros, I excel at cleaning, analyzing, and visualizing data in one of the most versatile tools for analysts.
+**Microsoft Power BI**: Designing interactive, visually compelling dashboards and reports that provide meaningful insights at a glance.
+**SQL**: Crafting efficient queries to extract, clean, and manipulate data from complex databases, ensuring accuracy and reliability.
+**Python**: Utilizing libraries like Pandas, NumPy, and Matplotlib for data manipulation, statistical analysis, and creating predictive models.
 
 I am deeply passionate about making sense of data to tell compelling stories, optimize performance, and support business growth. Whether it's automating repetitive tasks, solving complex analytical challenges, or visualizing trends, I aim to deliver value in every project I undertake.
 
